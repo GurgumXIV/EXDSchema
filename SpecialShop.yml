@@ -67,7 +67,9 @@ fields:
   - name: Quest
     type: link
     targets: [Quest]
-  - name: Unknown0
+  - name: CustomTalk
+    type: link
+    targets: [CustomTalk]
   - name: RequiredContentFinderCondition
     type: link
     targets: [ContentFinderCondition]
