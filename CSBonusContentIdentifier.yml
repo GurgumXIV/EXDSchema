@@ -34,5 +34,6 @@ fields:
         4: [Level]
         7: [Level]
         8: [Level]
+  - name: Unknown7
   - name: ContentLinkType
   - name: Unknown2

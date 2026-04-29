@@ -5,6 +5,9 @@ fields:
   - name: DataCenter
     type: link
     targets: [WorldDCGroupType]
+  - name: Unknown0
   - name: UserType
+  - name: Unknown1
   - name: Region
+  - name: Unknown2
   - name: IsPublic

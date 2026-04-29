@@ -8,6 +8,10 @@ fields:
   - name: UnlockQuest
     type: link
     targets: [Quest]
+  - name: Unknown0
+  - name: UnlockText
+    type: link
+    targets: [Addon]
   - name: Data
     type: link
     targets: [EmjCostumeData]

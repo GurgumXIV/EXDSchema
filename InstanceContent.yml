@@ -96,9 +96,6 @@ fields:
     type: link
     targets: [InstanceContentType]
   - name: WeekRestriction
-  - name: Colosseum
-    type: link
-    targets: [Colosseum]
   - name: Unknown9
   - name: QTE1
     type: link

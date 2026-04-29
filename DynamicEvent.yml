@@ -31,4 +31,5 @@ fields:
   - name: SingleBattle
     type: link
     targets: [DynamicEventSingleBattle]
+  - name: Unknown9
   - name: Unknown8

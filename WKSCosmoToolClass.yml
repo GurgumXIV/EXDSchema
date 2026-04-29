@@ -3,7 +3,7 @@ displayField: Name
 fields:
   - name: Stages
     type: array
-    count: 17
+    count: 20
     fields:
       - name: Unknown0
       - name: Item
@@ -14,7 +14,7 @@ fields:
         targets: [WKSCosmoToolName]
   - name: Types
     type: array
-    count: 6
+    count: 7
     fields:
       - name: Icon
         type: icon
