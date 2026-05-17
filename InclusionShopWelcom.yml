@@ -3,7 +3,7 @@ fields:
   - name: Unknown0
   - name: ShopName
     type: link
-    targets: [InclusionShopWelcom]
-  - name: Text
+    targets: [InclusionShopWelcomText]
+  - name: WelcomeText
     type: link
-    targets: [InclusionShopWelcom]
+    targets: [InclusionShopWelcomText]
